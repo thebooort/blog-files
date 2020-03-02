@@ -1,0 +1,38 @@
+[[main]]
+  identifier = "about"
+  name = "About"
+  url = "about"
+  weight = 1
+
+[[main]]
+  identifier = "posts"
+  name = "Posts"
+  url = "posts"
+  weight = 2
+
+[[main]]
+  identifier = "presentation"
+  name = "Charlas/Talks"
+  url = "presentation"
+  weight = 3
+
+
+[[main]]
+  identifier = "showcase"
+  name = "Proyectos"
+  url = "showcase"
+  weight = 4
+
+[[main]]
+  identifier = "podcast"
+  name = "Podcast"
+  url = "https://sprekaer.com/radiolabugr"
+  weight = 5
+
+[[main]]
+  identifier = "archive"
+  name = "Archivo"
+  url = "archive"
+  weight = 6
+
+
