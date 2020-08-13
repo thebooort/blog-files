@@ -1,14 +1,17 @@
 ---
-title: "Second"
-date: 2019-10-30T20:45:24+09:00
-description: "My second presentation"
+title: "Causal Inference"
+date: 2019-04-05T20:45:24+09:00
+description: "Causal Inference: Introducción a la inferencia causal"
 tags:
--
+- Mathematics
+- Computer Science
+- Power Law
 series:
--
+- 
 categories:
--
-image: images/feature1/number-two.png
+- Research
+
+image: images/causalinf.png
 revealBackgroundColor: "" # #fff or rgba() or hsl()
 revealBackgroundImage: "" # /images/myImage.png   <= static folder path
 revealBackgroundPosition: "" # left top, left center, left bottom, right top, right center ...
@@ -22,9 +25,5 @@ reveal:
   - main:
     - sub: 
       - |
-        test 1
-  - main:
-    - sub: 
-      - |
-        test 2
+        https://thebooort.github.io/geneura-paper-seminars/Casual_Inference_05-04-19/#/
 ---

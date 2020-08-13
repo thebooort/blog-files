@@ -2,7 +2,7 @@
 title: "Katex support"
 date: 2020-02-15
 description: "KaTeX is a fast, easy-to-use JavaScript library for TeX math rendering on the web."
-draft: false
+draft: true
 enableToc: false
 enableTocContent: false
 tags:

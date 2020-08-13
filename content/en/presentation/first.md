@@ -1,14 +1,17 @@
 ---
-title: "First"
-date: 2019-10-30T19:45:20+09:00
-description: "My first presentation"
+title: "Power laws' guide"
+date: 2019-02-01T19:45:20+09:00
+description: "Estudio de las leyes de potencias"
 tags:
--
+- Mathematics
+- Computer Science
+- Power Law
 series:
--
+- 
 categories:
--
-image: images/feature1/number-one.png
+- Research
+
+image: images/powerlaw.png
 revealBackgroundColor: "" # #fff or rgba() or hsl()
 revealBackgroundImage: "" # /images/myImage.png   <= static folder path
 revealBackgroundPosition: "" # left top, left center, left bottom, right top, right center ...
@@ -22,9 +25,6 @@ reveal:
   - main:
     - sub: 
       - |
-        test 1
-  - main:
-    - sub: 
-      - |
-        test 2
+        https://thebooort.github.io/geneura-paper-seminars/Power_Laws_01-02-19/#/
+
 ---

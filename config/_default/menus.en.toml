@@ -26,7 +26,7 @@
 [[main]]
   identifier = "podcast"
   name = "Podcast"
-  url = "https://sprekaer.com/radiolabugr"
+  url = "https://www.spreaker.com/show/the-fluxions"
   weight = 5
 
 [[main]]
