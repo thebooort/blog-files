@@ -1,0 +1,57 @@
+---
+author: "Bart"
+title: "The global map of math (well, kind of)"
+date: 2020-10-03T12:00:06+09:00
+description: "Interactive plot of the CMS2020 math classification in the search of a extensive mind map of math"
+draft: false
+hideToc: false
+enableToc: true
+enableTocContent: true
+author: Bart
+categories:
+- coding
+- Math
+- Visualization
+tags: 
+- Visualization
+- Data
+- Python
+- Math
+series:
+- Math
+- Projects
+libraries:
+- mathjax
+image: images/plotmsc1.jpeg
+---
+# The global map of math (not really, but it is close)
+
+<figure>
+  <img src="images/ploteo.png"/>
+</figure>
+
+
+## Motivation
+
+Lately I have been very obsessed with finding a way to create a concept map of modern mathematics. And it is not being easy. If we assumed that it was possible and that we had all the information, we would have a huge amount of information. The ramifications of mathematics are enormous and there are so many interconnected areas. It's a daunting task and I don't know if it's impossible. 
+
+But whatever, the important thing is to have fun and learn along the way. 
+
+I started to look for some attempts in this line. But I didn't like any of them. It is certain that there are really interesting schemes, but the structure towards impossible a visualization like the one that was looking for. 
+
+## Finding MSC
+I decided, considering the size of the project, that establishing all the connections would take time, but maybe a good place to start was to find a place where everything that needed to be related was. The goal was, therefore, to find an acceptable and used classification of the branches of mathematical knowledge that exist to date. 
+
+And immediately afterwards I thought of Arxiv. I started looking for how to classify the articles, what structure it had, and that's when I got the first pleasant surprise: I found the MSC or the Mathematical Subject Classification.
+
+
+## Tons of data
+
+
+## The final (only for now) map of mathematics
+
+You can find the final interactive map here (you can drag, click, zoom everywhere) [Mathematics Subject Classification 2020 edition](https://thebooort.github.io/cms2020-plots/plot/)
+
+## LINKS
+
+- [Repository (code and examples)](https://github.com/thebooort/cms2020-plots)
